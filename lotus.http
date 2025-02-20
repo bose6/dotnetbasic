@@ -1,0 +1,6 @@
+@lotus_HostAddress = http://localhost:5285
+
+GET {{lotus_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
