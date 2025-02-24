@@ -2,7 +2,6 @@
 
 This README provides an overview of the core components of the .NET Web API project, including Services, Interfaces, Controllers, Models, DbContext, and Dataset.
 
-## 📦 Project Structure
 
 
 ## 🚀 **Controllers**
